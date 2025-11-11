@@ -1,4 +1,4 @@
-👋 Hello World! I'm Manel BOUMADANE
+👋 Hello There! I'm Manel BOUMADANE
 
 <h3 align="center"> Data Science | AI Engineer | Machine Learning Enthusiast</h3>
 
