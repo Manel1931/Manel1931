@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Data+Science+%7C+AI+Engineer;Machine+Learning+Enthusiast;Computer+Vision+%26+Generative+AI" alt="Typing SVG" />
 </a>
 
-I'm a passionate **Data Science/AI Engineer**. [cite_start]My strong academic background, including a **Master's Degree** [cite: 8] [cite_start]and an **Engineer degree in Computer Science**[cite: 9], has solidified my deep commitment to **Artificial Intelligence** and **Machine Learning**.
+I'm a passionate **Data Science/AI Engineer**. My strong academic background, including a **Master's Degree** and an **Engineer degree in Computer Science**, has solidified my deep commitment to **Artificial Intelligence** and **Machine Learning**.
 
 ---
 
