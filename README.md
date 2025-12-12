@@ -27,10 +27,10 @@ I'm a passionate **Data Science/AI Engineer**. My strong academic background, in
 ---
 
 ### 📜 Certifications
-* [cite_start]**IBM:** Fundamentals of AI Agents Using RAG and LangChain [cite: 37]
-* [cite_start]**DeepLearning.AI:** Generative AI With Large Language Models [cite: 38]
-* [cite_start]**DeepLearning.AI:** ChatGPT Prompt Engineering for Developers [cite: 39]
-* [cite_start]**Coursera:** Deep Learning with PyTorch & TensorFlow [cite: 40]
+* **IBM:** Fundamentals of AI Agents Using RAG and LangChain 
+* **DeepLearning.AI:** Generative AI With Large Language Models 
+* **DeepLearning.AI:** ChatGPT Prompt Engineering for Developers 
+* **Coursera:** Deep Learning with PyTorch & TensorFlow 
 
 ---
 
