@@ -1,70 +1,36 @@
-# Hi there, I'm Manel BOUMADANE 👋
+# Hi there, I'm Manel BOUMADANE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### 🤖 Data Science | AI Engineer | Machine Learning Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=false&vCenter=false&width=600&lines=Data+Science+%7C+AI+Engineer;Machine+Learning+Enthusiast;Computer+Vision+%26+Generative+AI" alt="Typing SVG" />
+</a>
 
-I am a passionate **AI Engineer** based in **Paris, France**, specializing in **Generative AI** and **Edge Computing**. With a strong academic background from **Sorbonne Paris Nord University** (Excellence Scholarship winner) and **ENSTTIC**, I focus on bridging the gap between heavy AI models and efficient, real-world deployment on edge devices.
-
----
-
-### 🔭 Current Focus & Research
-* **Hybrid AI Architecture:** Conducting research at **Ampere Renault Group** on distributed inference (ExoLabs principles) and partitioning neural networks across heterogeneous devices.
-* **Edge LLMs:** Porting Large Language Models to **Qualcomm Automotive 8255 (Android 15)** using **ONNX** and **QNN** for efficient hardware acceleration.
-* **AI Agents:** Building autonomous Python coding agents using the **Google Gemini API**.
+I'm a passionate **Data Science/AI Engineer**. [cite_start]My strong academic background, including a **Master's Degree** [cite: 8] [cite_start]and an **Engineer degree in Computer Science**[cite: 9], has solidified my deep commitment to **Artificial Intelligence** and **Machine Learning**.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 **Machine Learning & Deep Learning**
+<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 **Generative AI & NLP**
+<br>
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-Architecture-blue)
 
-**Deployment & Edge AI**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-![Qualcomm QNN](https://img.shields.io/badge/Qualcomm_QNN-3253DC?style=flat&logo=qualcomm&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-#### 🧠 Distributed AI on Edge (Research)
-*Working on the Qualcomm Automotive 8255 platform.*
-- **Goal:** Enable collaborative computation by distributing neural network layers across smartphones and embedded systems.
-- **Tech:** ONNX, QNN, Android 15, ExoLabs principles.
-
-#### 🤖 Python Coding AI Agent
-*An autonomous agent capable of analyzing repositories and writing code.*
-- **Features:** Repository analysis, file manipulation, and secure local script execution.
-- **Tech:** Google Gemini (Flash), Python, Secret Management.
-
-#### 📊 Real Estate Intelligence System
-*Market analysis for Ouedkniss (Algeria's largest marketplace).*
-- **Impact:** Transformed unstructured listings into structured datasets for pricing analysis.
-- **Tech:** GPT-3.5, LangChain, Web Scraping, Data Pipelines.
-
 ---
 
 ### 📜 Certifications
-* **IBM:** Fundamentals of AI Agents Using RAG and LangChain
-* **DeepLearning.AI:** Generative AI With Large Language Models
-* **DeepLearning.AI:** ChatGPT Prompt Engineering for Developers
-* **Coursera:** Deep Learning with PyTorch & TensorFlow
+* [cite_start]**IBM:** Fundamentals of AI Agents Using RAG and LangChain [cite: 37]
+* [cite_start]**DeepLearning.AI:** Generative AI With Large Language Models [cite: 38]
+* [cite_start]**DeepLearning.AI:** ChatGPT Prompt Engineering for Developers [cite: 39]
+* [cite_start]**Coursera:** Deep Learning with PyTorch & TensorFlow [cite: 40]
 
 ---
 
