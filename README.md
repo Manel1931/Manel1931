@@ -70,7 +70,7 @@ I am a passionate **AI Engineer** based in **Paris, France**, specializing in **
 
 ### 📫 Connect with me
 <a href="[https://www.linkedin.com/in/manel-boumadane/](https://www.linkedin.com/in/manel-boumadane-a1b941223/)">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://www.linkedin.com/in/manel-boumadane-a1b941223/&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:manelboumadane01@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
